@@ -1009,7 +1009,7 @@ class PlayState extends MusicBeatState
 					schoolIntro(doof);
 
 				case "rabbit's-luck" | "rabbit's-luck-hard":
-					startDialogue(dialogueJson);
+					startDialogue(dialogueJson, 'rabbitfoot');
 
 				default:
 					startCountdown();
@@ -2905,7 +2905,7 @@ class PlayState extends MusicBeatState
 
 				if (storyPlaylist.length <= 0)
 				{
-					FlxG.sound.playMusic(Paths.music('freakyMenu'));
+					FlxG.sound.playMusic(Paths.music('ossyMenu'));
 
 					cancelFadeTween();
 					CustomFadeTransition.nextCamera = camOther;
@@ -2980,7 +2980,7 @@ class PlayState extends MusicBeatState
 					CustomFadeTransition.nextCamera = null;
 				}
 				MusicBeatState.switchState(new FreeplayState());
-				FlxG.sound.playMusic(Paths.music('freakyMenu'));
+				FlxG.sound.playMusic(Paths.music('ossyMenu'));
 				usedPractice = false;
 				changedDifficulty = false;
 				cpuControlled = false;

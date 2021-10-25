@@ -39,7 +39,7 @@
 			"speed": 0.02,
 			"portrait": "gf",
 			"boxState": "angry",
-			"expression": "pissed",
+			"expression": "talk",
 			"text": "NEXT CONTESTANT, PLEASE COME OUT!"
 		},
 		{
@@ -60,7 +60,7 @@
 			"speed": 0.05,
 			"portrait": "gf",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "talk",
 			"text": "Hello! Can you state your name and what you're auditioning for?"
 		},
 		{
@@ -81,7 +81,7 @@
 			"speed": 0.015,
 			"portrait": "oswald",
 			"boxState": "normal",
-			"expression": "shocked",
+			"expression": "talk",
 			"text": "Well well well, Hello world!"
 		},
 		{
@@ -109,7 +109,7 @@
 			"speed": 0.015,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "vacant",
+			"expression": "talk",
 			"text": "bro just state your name. it is not that deep."
 		},
 		{
@@ -214,7 +214,7 @@
 			"speed": 0.05,
 			"portrait": "bf",
 			"boxState": "normal",
-			"expression": "pissed",
+			"expression": "talk",
 			"text": "OH! I KNOW! I KNOW!"
 		},
 		{

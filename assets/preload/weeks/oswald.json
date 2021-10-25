@@ -1,0 +1,30 @@
+{
+	"storyName": "A Classic Audition!",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"oswald",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Rabbit's Luck",
+			"oswald",
+			[
+				0,
+				155,
+				255
+			]
+		]
+	],
+	"weekName": "Vs Oswald"
+}

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgBounceTitle.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bounceLeft instance 10000" x="0" y="0" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10001" x="1355" y="0" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10002" x="2710" y="0" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10003" x="4065" y="0" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10004" x="5420" y="0" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10005" x="6775" y="0" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10006" x="0" y="803" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10007" x="1355" y="803" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10008" x="2710" y="803" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10009" x="4065" y="803" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10010" x="5420" y="803" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10011" x="6775" y="803" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10012" x="0" y="1606" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10013" x="1355" y="1606" width="1305" height="753"/>
+	<SubTexture name="bounceLeft instance 10014" x="2710" y="1606" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10000" x="4065" y="1606" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10001" x="5420" y="1606" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10002" x="6775" y="1606" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10003" x="0" y="2409" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10004" x="1355" y="2409" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10005" x="2710" y="2409" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10006" x="4065" y="2409" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10007" x="5420" y="2409" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10008" x="6775" y="2409" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10009" x="0" y="3212" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10010" x="1355" y="3212" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10011" x="2710" y="3212" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10012" x="4065" y="3212" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10013" x="5420" y="3212" width="1305" height="753"/>
+	<SubTexture name="bounceRight instance 10014" x="6775" y="3212" width="1305" height="753"/>
+</TextureAtlas>

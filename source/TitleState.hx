@@ -147,6 +147,8 @@ class TitleState extends MusicBeatState
 
 	var logoBl:FlxSprite;
 	var gfDance:FlxSprite;
+	var osBounce:FlxSprite;
+	var bgBl:FlxSprite;
 	var danceLeft:Bool = false;
 	var titleText:FlxSprite;
 	var swagShader:ColorSwap = null;
@@ -179,7 +181,7 @@ class TitleState extends MusicBeatState
 			if(FlxG.sound.music == null) {
 				FlxG.sound.playMusic(Paths.music('freakyMenu'), 0);
 
-				FlxG.sound.music.fadeIn(4, 0, 0.7);
+				FlxG.sound.music.fadeIn(0.5, 0, 0.7);
 			}
 		}
 
@@ -192,14 +194,34 @@ class TitleState extends MusicBeatState
 		// bg.updateHitbox();
 		add(bg);
 
-		logoBl = new FlxSprite(-150, -100);
-		logoBl.frames = Paths.getSparrowAtlas('logoBumpin');
+		logoBl = new FlxSprite(182, -40);
+		logoBl.frames = Paths.getSparrowAtlas('logoBumpin_os');
 		logoBl.antialiasing = ClientPrefs.globalAntialiasing;
-		logoBl.animation.addByPrefix('bump', 'logo bumpin', 24);
+		logoBl.animation.addByPrefix('bump', 'logo bumpin', 24, false);
 		logoBl.animation.play('bump');
 		logoBl.updateHitbox();
 		// logoBl.screenCenter();
 		// logoBl.color = FlxColor.BLACK;
+
+		osBounce = new FlxSprite(182, 150);
+		osBounce.frames = Paths.getSparrowAtlas('osBounceTitle');
+		osBounce.antialiasing = ClientPrefs.globalAntialiasing;
+		osBounce.animation.addByPrefix('bump', 'Oswald_Bop F', 24, false);
+		osBounce.animation.play('bump');
+		osBounce.updateHitbox();
+		osBounce.screenCenter();
+		osBounce.y += 130;
+
+		bgBl = new FlxSprite(0, 0);
+		bgBl.frames = Paths.getSparrowAtlas('bgBounceTitle');
+		bgBl.animation.addByPrefix('danceLeft', 'bounceLeft instance 1', 24, false);
+		bgBl.animation.addByPrefix('danceRight', 'bounceRight instance 1', 24, false);
+
+		/*
+		bgBl.animation.addByIndices('danceLeft', 'Background Bop instance 1', [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15], "", 24, false);
+		bgBl.animation.addByIndices('danceRight', 'Background Bop instance 1', [16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
+*/
+
 
 		swagShader = new ColorSwap();
 		if(!FlxG.save.data.psykaEasterEgg || !easterEggEnabled) {
@@ -216,7 +238,9 @@ class TitleState extends MusicBeatState
 			gfDance.animation.addByIndices('danceRight', 'psykaDance', [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29], "", 24, false);
 		}
 		gfDance.antialiasing = ClientPrefs.globalAntialiasing;
-		add(gfDance);
+		//add(gfDance);
+		add(bgBl);
+		add(osBounce);
 		gfDance.shader = swagShader.shader;
 		add(logoBl);
 		//logoBl.shader = swagShader.shader;
@@ -446,21 +470,37 @@ class TitleState extends MusicBeatState
 	{
 		super.beatHit();
 
+		danceLeft = !danceLeft;
+
 		if(logoBl != null) 
 			logoBl.animation.play('bump');
 
+		if(osBounce != null) 
+			osBounce.animation.play('bump', true);
+
 		if(gfDance != null) {
-			danceLeft = !danceLeft;
+			//danceLeft = !danceLeft;
 
 			if (danceLeft)
-				gfDance.animation.play('danceRight');
+				{gfDance.animation.play('danceRight');
+				gfDance.y += 50;}
 			else
-				gfDance.animation.play('danceLeft');
+				{gfDance.animation.play('danceLeft');
+				gfDance.y -= 50;}
 		}
 
-		if(!closedState) {
-			sickBeats++;
-			switch (sickBeats)
+		if(bgBl != null) {
+			//danceLeft = !danceLeft;
+
+			if (danceLeft)
+				bgBl.animation.play('danceRight');
+				
+			else
+				bgBl.animation.play('danceLeft');
+		}
+
+		if (!closedState) {
+				switch (curBeat)
 			{
 				case 1:
 					createCoolText(['Psych Engine by'], 45);
@@ -512,6 +552,7 @@ class TitleState extends MusicBeatState
 					skipIntro();
 			}
 		}
+		
 	}
 
 	var skippedIntro:Bool = false;

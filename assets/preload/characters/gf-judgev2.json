@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				170,
+				79
+			],
+			"loop": false,
+			"anim": "cheer",
+			"fps": 24,
+			"name": "GF Cheer",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				63
+			],
+			"anim": "sad",
+			"fps": 24,
+			"name": "gf sad",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				73
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "GF Dancing Beat instance 1",
+			"indices": [
+				30,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				73
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "GF Dancing Beat instance 1",
+			"indices": [
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				71
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "GF_Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				70
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "GF_Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				69
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "GF_Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				74
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "GF_Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				171,
+				70
+			],
+			"anim": "spooked",
+			"fps": 24,
+			"name": "GF_Spooked",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/GF_Tablev2",
+	"position": [
+		50,
+		80
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.6
+}

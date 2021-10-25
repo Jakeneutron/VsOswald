@@ -5,59 +5,92 @@
 				44,
 				13
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singLEFT",
-			"indices": [],
-			"name": "Os_Left instance"
+			"loop": false,
+			"name": "Os_Left_Angry"
 		},
 		{
 			"offsets": [
-				-98,
-				-219
+				-100,
+				-221
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singDOWN",
-			"indices": [],
-			"name": "Os_Down instance"
+			"loop": false,
+			"name": "Os_Down_Angry"
 		},
 		{
 			"offsets": [
-				45,
-				50
+				48,
+				47
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singUP",
-			"indices": [],
-			"name": "Os_Up instance"
+			"loop": false,
+			"name": "Os_Up_Angry"
 		},
 		{
 			"offsets": [
-				-135,
-				-37
+				-121,
+				-35
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "singRIGHT",
-			"indices": [],
-			"name": "Os_Right instance"
+			"loop": false,
+			"name": "Os_Right_Angry"
 		},
 		{
 			"offsets": [
-				0,
+				8,
 				0
 			],
-			"loop": true,
-			"fps": 24,
-			"anim": "idle",
 			"indices": [],
-			"name": "Os_Idle instance"
+			"fps": 24,
+			"anim": "danceLeft",
+			"loop": false,
+			"name": "Os_danceLeft_Angry"
+		},
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "danceRight",
+			"loop": false,
+			"name": "Os_danceRight_Angry"
+		},
+		{
+			"offsets": [
+				-42,
+				212
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "notold",
+			"loop": false,
+			"name": "Os_NotOld"
+		},
+		{
+			"offsets": [
+				70,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "hah",
+			"loop": false,
+			"name": "Os_HAH"
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/Oswald_Assets",
+	"image": "characters/Oswald_Angry_Assets",
 	"position": [
 		-70,
 		200
@@ -70,8 +103,8 @@
 		255
 	],
 	"camera_position": [
-		-50,
-		190
+		-60,
+		160
 	],
 	"sing_duration": 6.1,
 	"scale": 1

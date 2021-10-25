@@ -1,5 +1,6 @@
 package;
 
+import DialogueBoxPsych.DialogueCharacter;
 import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.graphics.frames.FlxAtlasFrames;
@@ -211,7 +212,26 @@ class Alphabet extends FlxSpriteGroup
 				timerCheck();
 			}
 			if(dialogueSound != null) dialogueSound.stop();
-			dialogueSound = FlxG.sound.play(Paths.sound('dialogue'));
+			
+			/*switch (DialogueCharacter.soundCharacter)
+			{
+				case 'oswald':
+				dialogueSound = FlxG.sound.play(Paths.sound('oswald_dialogue'));
+
+				case 'bf':
+				dialogueSound = FlxG.sound.play(Paths.sound('bf_dialogue'));
+
+				case 'gf':
+				dialogueSound = FlxG.sound.play(Paths.sound('gf_dialogue'));
+
+				case 'default':
+				dialogueSound = FlxG.sound.play(Paths.sound('softdialogue'));
+
+				default:*/
+				dialogueSound = FlxG.sound.play(Paths.sound('softdialogue'));
+		//}
+			
+			
 		} else {
 			typeTimer = new FlxTimer().start(0.1, function(tmr:FlxTimer) {
 				typeTimer = new FlxTimer().start(speed, function(tmr:FlxTimer) {
@@ -309,7 +329,25 @@ class Alphabet extends FlxSpriteGroup
 
 				if(tmr != null) {
 					if(dialogueSound != null) dialogueSound.stop();
-					dialogueSound = FlxG.sound.play(Paths.sound('dialogue'));
+
+					/*switch (DialogueCharacter.soundCharacter)
+			{
+				case 'oswald':
+				dialogueSound = FlxG.sound.play(Paths.sound('oswald_dialogue'));
+
+				case 'bf':
+				dialogueSound = FlxG.sound.play(Paths.sound('bf_dialogue'));
+
+				case 'gf':
+				dialogueSound = FlxG.sound.play(Paths.sound('gf_dialogue'));
+
+				case 'default':
+				dialogueSound = FlxG.sound.play(Paths.sound('softdialogue'));
+				
+				default:*/
+				dialogueSound = FlxG.sound.play(Paths.sound('softdialogue'));
+		//}
+					//dialogueSound = FlxG.sound.play(Paths.sound('softdialogue'));
 				}
 
 				add(letter);

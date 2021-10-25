@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu_Oswald.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Oswald_MenuLoop instance 10000" x="0" y="0" width="334" height="373" frameX="-6" frameY="0" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10001" x="0" y="0" width="334" height="373" frameX="-6" frameY="0" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10002" x="384" y="0" width="330" height="369" frameX="-10" frameY="-4" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10003" x="384" y="0" width="330" height="369" frameX="-10" frameY="-4" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10004" x="764" y="0" width="333" height="360" frameX="0" frameY="-13" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10005" x="764" y="0" width="333" height="360" frameX="0" frameY="-13" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10006" x="1147" y="0" width="338" height="356" frameX="-3" frameY="-17" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10007" x="1147" y="0" width="338" height="356" frameX="-3" frameY="-17" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10008" x="1535" y="0" width="340" height="366" frameX="-6" frameY="-7" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10009" x="1535" y="0" width="340" height="366" frameX="-6" frameY="-7" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10010" x="0" y="423" width="334" height="371" frameX="-6" frameY="-2" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10011" x="0" y="423" width="334" height="371" frameX="-6" frameY="-2" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10012" x="0" y="0" width="334" height="373" frameX="-6" frameY="0" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10013" x="0" y="0" width="334" height="373" frameX="-6" frameY="0" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10014" x="0" y="0" width="334" height="373" frameX="-6" frameY="0" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10015" x="0" y="0" width="334" height="373" frameX="-6" frameY="0" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10016" x="384" y="423" width="330" height="369" frameX="-17" frameY="-4" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10017" x="384" y="423" width="330" height="369" frameX="-17" frameY="-4" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10018" x="764" y="423" width="328" height="368" frameX="-16" frameY="-5" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10019" x="764" y="423" width="328" height="368" frameX="-16" frameY="-5" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10020" x="1142" y="423" width="338" height="357" frameX="-6" frameY="-16" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10021" x="1142" y="423" width="338" height="357" frameX="-6" frameY="-16" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10022" x="1535" y="0" width="340" height="366" frameX="-6" frameY="-7" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10023" x="1535" y="0" width="340" height="366" frameX="-6" frameY="-7" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10024" x="0" y="423" width="334" height="371" frameX="-6" frameY="-2" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10025" x="0" y="423" width="334" height="371" frameX="-6" frameY="-2" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10026" x="0" y="0" width="334" height="373" frameX="-6" frameY="0" frameWidth="347" frameHeight="373"/>
+	<SubTexture name="Oswald_MenuLoop instance 10027" x="0" y="0" width="334" height="373" frameX="-6" frameY="0" frameWidth="347" frameHeight="373"/>
+</TextureAtlas>

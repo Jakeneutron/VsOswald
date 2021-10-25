@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Oswald_Dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.8.42666 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Os_Angry instance 10000" x="0" y="0" width="554" height="673"/>
+	<SubTexture name="Os_Angry instance 10001" x="0" y="0" width="554" height="673"/>
+	<SubTexture name="Os_Angry instance 10002" x="0" y="0" width="554" height="673"/>
+	<SubTexture name="Os_Angry instance 10003" x="0" y="0" width="554" height="673"/>
+	<SubTexture name="Os_Angry instance 10004" x="0" y="0" width="554" height="673"/>
+	<SubTexture name="Os_Angry instance 10005" x="0" y="0" width="554" height="673"/>
+	<SubTexture name="Os_Angry instance 10006" x="0" y="0" width="554" height="673"/>
+	<SubTexture name="Os_Angry_Loop instance 10000" x="604" y="0" width="574" height="646" frameX="-2" frameY="-23" frameWidth="576" frameHeight="669"/>
+	<SubTexture name="Os_Angry_Loop instance 10001" x="604" y="0" width="574" height="646" frameX="-2" frameY="-23" frameWidth="576" frameHeight="669"/>
+	<SubTexture name="Os_Angry_Loop instance 10002" x="1228" y="0" width="548" height="665" frameX="-19" frameY="-4" frameWidth="576" frameHeight="669"/>
+	<SubTexture name="Os_Angry_Loop instance 10003" x="1228" y="0" width="548" height="665" frameX="-19" frameY="-4" frameWidth="576" frameHeight="669"/>
+	<SubTexture name="Os_Angry_Loop instance 10004" x="1826" y="0" width="561" height="669" frameX="-1" frameY="0" frameWidth="576" frameHeight="669"/>
+	<SubTexture name="Os_Angry_Loop instance 10005" x="1826" y="0" width="561" height="669" frameX="-1" frameY="0" frameWidth="576" frameHeight="669"/>
+	<SubTexture name="Os_Angry_Loop instance 10006" x="2437" y="0" width="562" height="646" frameX="0" frameY="-23" frameWidth="576" frameHeight="669"/>
+	<SubTexture name="Os_Angry_Loop instance 10007" x="2437" y="0" width="562" height="646" frameX="0" frameY="-23" frameWidth="576" frameHeight="669"/>
+	<SubTexture name="Os_Normal instance 10000" x="3049" y="0" width="628" height="704"/>
+	<SubTexture name="Os_Normal instance 10001" x="3049" y="0" width="628" height="704"/>
+	<SubTexture name="Os_Normal instance 10002" x="3049" y="0" width="628" height="704"/>
+	<SubTexture name="Os_Normal instance 10003" x="3049" y="0" width="628" height="704"/>
+	<SubTexture name="Os_Normal instance 10004" x="3049" y="0" width="628" height="704"/>
+	<SubTexture name="Os_Normal instance 10005" x="3049" y="0" width="628" height="704"/>
+	<SubTexture name="Os_Normal instance 10006" x="3049" y="0" width="628" height="704"/>
+	<SubTexture name="Os_Normal instance 10007" x="3049" y="0" width="628" height="704"/>
+	<SubTexture name="Os_Normal_Loop instance 10000" x="0" y="754" width="623" height="690" frameX="-17" frameY="-12" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Normal_Loop instance 10001" x="0" y="754" width="623" height="690" frameX="-17" frameY="-12" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Normal_Loop instance 10002" x="673" y="754" width="639" height="702" frameX="-8" frameY="0" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Normal_Loop instance 10003" x="673" y="754" width="639" height="702" frameX="-8" frameY="0" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Normal_Loop instance 10004" x="1362" y="754" width="644" height="696" frameX="0" frameY="-6" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Normal_Loop instance 10005" x="1362" y="754" width="644" height="696" frameX="0" frameY="-6" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Normal_Loop instance 10006" x="2056" y="754" width="643" height="700" frameX="-1" frameY="-2" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Normal_Loop instance 10007" x="2056" y="754" width="643" height="700" frameX="-1" frameY="-2" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Sad instance 10000" x="2749" y="754" width="615" height="509"/>
+	<SubTexture name="Os_Sad instance 10001" x="2749" y="754" width="615" height="509"/>
+	<SubTexture name="Os_Sad instance 10002" x="2749" y="754" width="615" height="509"/>
+	<SubTexture name="Os_Sad instance 10003" x="2749" y="754" width="615" height="509"/>
+	<SubTexture name="Os_Sad instance 10004" x="2749" y="754" width="615" height="509"/>
+	<SubTexture name="Os_Sad instance 10005" x="2749" y="754" width="615" height="509"/>
+	<SubTexture name="Os_Sad instance 10006" x="2749" y="754" width="615" height="509"/>
+	<SubTexture name="Os_Sad_Loop instance 10000" x="3414" y="754" width="598" height="507" frameX="-18" frameY="-32" frameWidth="618" frameHeight="539"/>
+	<SubTexture name="Os_Sad_Loop instance 10001" x="3414" y="754" width="598" height="507" frameX="-18" frameY="-32" frameWidth="618" frameHeight="539"/>
+	<SubTexture name="Os_Sad_Loop instance 10002" x="0" y="1506" width="618" height="533" frameX="0" frameY="0" frameWidth="618" frameHeight="539"/>
+	<SubTexture name="Os_Sad_Loop instance 10003" x="0" y="1506" width="618" height="533" frameX="0" frameY="0" frameWidth="618" frameHeight="539"/>
+	<SubTexture name="Os_Sad_Loop instance 10004" x="668" y="1506" width="615" height="509" frameX="-3" frameY="-24" frameWidth="618" frameHeight="539"/>
+	<SubTexture name="Os_Sad_Loop instance 10005" x="668" y="1506" width="615" height="509" frameX="-3" frameY="-24" frameWidth="618" frameHeight="539"/>
+	<SubTexture name="Os_Sad_Loop instance 10006" x="1333" y="1506" width="615" height="509" frameX="-3" frameY="-24" frameWidth="618" frameHeight="539"/>
+	<SubTexture name="Os_Sad_Loop instance 10007" x="1333" y="1506" width="615" height="509" frameX="-3" frameY="-24" frameWidth="618" frameHeight="539"/>
+	<SubTexture name="Os_Sad_Loop instance 10008" x="1333" y="1506" width="615" height="509" frameX="-3" frameY="-24" frameWidth="618" frameHeight="539"/>
+	<SubTexture name="Os_Sad_Loop instance 10009" x="1333" y="1506" width="615" height="509" frameX="-3" frameY="-24" frameWidth="618" frameHeight="539"/>
+	<SubTexture name="Os_Vacant instance 10000" x="1998" y="1506" width="628" height="704"/>
+	<SubTexture name="Os_Vacant instance 10001" x="1998" y="1506" width="628" height="704"/>
+	<SubTexture name="Os_Vacant instance 10002" x="1998" y="1506" width="628" height="704"/>
+	<SubTexture name="Os_Vacant instance 10003" x="1998" y="1506" width="628" height="704"/>
+	<SubTexture name="Os_Vacant instance 10004" x="1998" y="1506" width="628" height="704"/>
+	<SubTexture name="Os_Vacant instance 10005" x="1998" y="1506" width="628" height="704"/>
+	<SubTexture name="Os_Vacant instance 10006" x="1998" y="1506" width="628" height="704"/>
+	<SubTexture name="Os_Vacant instance 10007" x="1998" y="1506" width="628" height="704"/>
+	<SubTexture name="Os_Vacant_Loop instance 10000" x="2676" y="1506" width="623" height="690" frameX="-17" frameY="-12" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Vacant_Loop instance 10001" x="2676" y="1506" width="623" height="690" frameX="-17" frameY="-12" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Vacant_Loop instance 10002" x="3349" y="1506" width="639" height="702" frameX="-8" frameY="0" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Vacant_Loop instance 10003" x="3349" y="1506" width="639" height="702" frameX="-8" frameY="0" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Vacant_Loop instance 10004" x="0" y="2260" width="644" height="696" frameX="0" frameY="-6" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Vacant_Loop instance 10005" x="0" y="2260" width="644" height="696" frameX="0" frameY="-6" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Vacant_Loop instance 10006" x="694" y="2260" width="643" height="702" frameX="-1" frameY="0" frameWidth="647" frameHeight="702"/>
+	<SubTexture name="Os_Vacant_Loop instance 10007" x="694" y="2260" width="643" height="702" frameX="-1" frameY="0" frameWidth="647" frameHeight="702"/>
+</TextureAtlas>

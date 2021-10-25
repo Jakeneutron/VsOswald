@@ -1,0 +1,10 @@
+{
+	"idle_anim": "Oswald_MenuLoop",
+	"image": "Menu_Oswald",
+	"position": [
+		63,
+		20
+	],
+	"scale": 0.9,
+	"confirm_anim": "M Dad Idle"
+}

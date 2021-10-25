@@ -1,0 +1,63 @@
+{
+	"dialogue_pos": "left",
+	"position": [
+		10,
+		-70
+	],
+	"scale": 1,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				5,
+				-2
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Os_Normal_Loop",
+			"idle_name": "Os_Normal "
+		},
+		{
+			"loop_name": "Os_Vacant_Loop",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"idle_name": "Os_Vacant ",
+			"anim": "vacant",
+			"loop_offsets": [
+				5,
+				-2
+			]
+		},
+		{
+			"loop_name": "Os_Sad_Loop",
+			"idle_offsets": [
+				-5,
+				-153
+			],
+			"idle_name": "Os_Sad ",
+			"anim": "sad",
+			"loop_offsets": [
+				-3,
+				-136
+			]
+		},
+		{
+			"loop_name": "Os_Angry_Loop",
+			"idle_offsets": [
+				-46,
+				-22
+			],
+			"idle_name": "Os_Angry ",
+			"anim": "upset",
+			"loop_offsets": [
+				-49,
+				-25
+			]
+		}
+	],
+	"image": "Oswald_Dialogue"
+}

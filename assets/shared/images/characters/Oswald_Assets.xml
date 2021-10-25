@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Oswald_Assets.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Os_Down instance 10000" x="0" y="0" width="384" height="398" frameX="0" frameY="-1" frameWidth="384" frameHeight="399"/>
+	<SubTexture name="Os_Down instance 10001" x="0" y="0" width="384" height="398" frameX="0" frameY="-1" frameWidth="384" frameHeight="399"/>
+	<SubTexture name="Os_Down instance 10002" x="434" y="0" width="375" height="383" frameX="-4" frameY="-3" frameWidth="384" frameHeight="399"/>
+	<SubTexture name="Os_Down instance 10003" x="434" y="0" width="375" height="383" frameX="-4" frameY="-3" frameWidth="384" frameHeight="399"/>
+	<SubTexture name="Os_Down instance 10004" x="859" y="0" width="375" height="385" frameX="-4" frameY="0" frameWidth="384" frameHeight="399"/>
+	<SubTexture name="Os_Down instance 10005" x="859" y="0" width="375" height="385" frameX="-4" frameY="0" frameWidth="384" frameHeight="399"/>
+	<SubTexture name="Os_Down instance 10006" x="859" y="0" width="375" height="385" frameX="-4" frameY="0" frameWidth="384" frameHeight="399"/>
+	<SubTexture name="Os_Down instance 10007" x="859" y="0" width="375" height="385" frameX="-4" frameY="0" frameWidth="384" frameHeight="399"/>
+	<SubTexture name="Os_Idle instance 10000" x="1284" y="0" width="445" height="498" frameX="-8" frameY="0" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10001" x="1284" y="0" width="445" height="498" frameX="-8" frameY="0" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10002" x="1779" y="0" width="441" height="493" frameX="-12" frameY="-5" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10003" x="1779" y="0" width="441" height="493" frameX="-12" frameY="-5" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10004" x="2270" y="0" width="443" height="480" frameX="0" frameY="-18" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10005" x="2270" y="0" width="443" height="480" frameX="0" frameY="-18" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10006" x="2763" y="0" width="450" height="476" frameX="-4" frameY="-22" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10007" x="2763" y="0" width="450" height="476" frameX="-4" frameY="-22" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10008" x="3263" y="0" width="453" height="488" frameX="-7" frameY="-10" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10009" x="3263" y="0" width="453" height="488" frameX="-7" frameY="-10" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10010" x="0" y="548" width="444" height="496" frameX="-8" frameY="-2" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10011" x="0" y="548" width="444" height="496" frameX="-8" frameY="-2" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10012" x="1284" y="0" width="445" height="498" frameX="-8" frameY="0" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10013" x="1284" y="0" width="445" height="498" frameX="-8" frameY="0" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10014" x="1284" y="0" width="445" height="498" frameX="-8" frameY="0" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10015" x="1284" y="0" width="445" height="498" frameX="-8" frameY="0" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10016" x="494" y="548" width="440" height="493" frameX="-22" frameY="-5" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10017" x="494" y="548" width="440" height="493" frameX="-22" frameY="-5" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10018" x="984" y="548" width="437" height="491" frameX="-21" frameY="-7" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10019" x="984" y="548" width="437" height="491" frameX="-21" frameY="-7" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10020" x="1471" y="548" width="450" height="476" frameX="-8" frameY="-22" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10021" x="1471" y="548" width="450" height="476" frameX="-8" frameY="-22" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10022" x="1971" y="548" width="453" height="488" frameX="-7" frameY="-10" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10023" x="1971" y="548" width="453" height="488" frameX="-7" frameY="-10" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10024" x="0" y="548" width="444" height="496" frameX="-8" frameY="-2" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10025" x="0" y="548" width="444" height="496" frameX="-8" frameY="-2" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10026" x="1284" y="0" width="445" height="498" frameX="-8" frameY="0" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Idle instance 10027" x="1284" y="0" width="445" height="498" frameX="-8" frameY="0" frameWidth="462" frameHeight="498"/>
+	<SubTexture name="Os_Left instance 10000" x="2474" y="548" width="401" height="476" frameX="-18" frameY="-34" frameWidth="419" frameHeight="510"/>
+	<SubTexture name="Os_Left instance 10001" x="2474" y="548" width="401" height="476" frameX="-18" frameY="-34" frameWidth="419" frameHeight="510"/>
+	<SubTexture name="Os_Left instance 10002" x="2925" y="548" width="376" height="510" frameX="0" frameY="0" frameWidth="419" frameHeight="510"/>
+	<SubTexture name="Os_Left instance 10003" x="2925" y="548" width="376" height="510" frameX="0" frameY="0" frameWidth="419" frameHeight="510"/>
+	<SubTexture name="Os_Left instance 10004" x="3351" y="548" width="373" height="507" frameX="-1" frameY="-3" frameWidth="419" frameHeight="510"/>
+	<SubTexture name="Os_Left instance 10005" x="3351" y="548" width="373" height="507" frameX="-1" frameY="-3" frameWidth="419" frameHeight="510"/>
+	<SubTexture name="Os_Left instance 10006" x="3351" y="548" width="373" height="507" frameX="-1" frameY="-3" frameWidth="419" frameHeight="510"/>
+	<SubTexture name="Os_Left instance 10007" x="3351" y="548" width="373" height="507" frameX="-1" frameY="-3" frameWidth="419" frameHeight="510"/>
+	<SubTexture name="Os_Right instance 10000" x="0" y="1108" width="484" height="409" frameX="-1" frameY="-53" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="Os_Right instance 10001" x="0" y="1108" width="484" height="409" frameX="-1" frameY="-53" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="Os_Right instance 10002" x="534" y="1108" width="475" height="462" frameX="0" frameY="0" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="Os_Right instance 10003" x="534" y="1108" width="475" height="462" frameX="0" frameY="0" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="Os_Right instance 10004" x="1059" y="1108" width="475" height="462" frameX="0" frameY="0" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="Os_Right instance 10005" x="1059" y="1108" width="475" height="462" frameX="0" frameY="0" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="Os_Right instance 10006" x="1059" y="1108" width="475" height="462" frameX="0" frameY="0" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="Os_Right instance 10007" x="1059" y="1108" width="475" height="462" frameX="0" frameY="0" frameWidth="485" frameHeight="462"/>
+	<SubTexture name="Os_Up instance 10000" x="1584" y="1108" width="364" height="552" frameX="-23" frameY="0" frameWidth="387" frameHeight="555"/>
+	<SubTexture name="Os_Up instance 10001" x="1584" y="1108" width="364" height="552" frameX="-23" frameY="0" frameWidth="387" frameHeight="555"/>
+	<SubTexture name="Os_Up instance 10002" x="1998" y="1108" width="382" height="504" frameX="0" frameY="-51" frameWidth="387" frameHeight="555"/>
+	<SubTexture name="Os_Up instance 10003" x="1998" y="1108" width="382" height="504" frameX="0" frameY="-51" frameWidth="387" frameHeight="555"/>
+	<SubTexture name="Os_Up instance 10004" x="2430" y="1108" width="380" height="509" frameX="0" frameY="-46" frameWidth="387" frameHeight="555"/>
+	<SubTexture name="Os_Up instance 10005" x="2430" y="1108" width="380" height="509" frameX="0" frameY="-46" frameWidth="387" frameHeight="555"/>
+	<SubTexture name="Os_Up instance 10006" x="2430" y="1108" width="380" height="509" frameX="0" frameY="-46" frameWidth="387" frameHeight="555"/>
+	<SubTexture name="Os_Up instance 10007" x="2430" y="1108" width="380" height="509" frameX="0" frameY="-46" frameWidth="387" frameHeight="555"/>
+</TextureAtlas>

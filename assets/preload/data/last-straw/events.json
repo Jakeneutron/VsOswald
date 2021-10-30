@@ -867,7 +867,7 @@
 				"typeOfSection": 0,
 				"sectionNotes": [
 					[
-						148314.498378128,
+						148326.217128128,
 						-1,
 						"Play Animation",
 						"scream",
@@ -1024,15 +1024,6 @@
 						"0.001"
 					]
 				],
-				"bpm": 0,
-				"changeBPM": false,
-				"mustHitSection": false
-			},
-			{
-				"lengthInSteps": 16,
-				"altAnim": false,
-				"typeOfSection": 0,
-				"sectionNotes": [],
 				"bpm": 0,
 				"changeBPM": false,
 				"mustHitSection": false

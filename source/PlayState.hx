@@ -207,6 +207,14 @@ class PlayState extends MusicBeatState
 	var bgGirls:BackgroundGirls;
 	var wiggleShit:WiggleEffect = new WiggleEffect();
 	var bgGhouls:BGSprite;
+	public var hell:Bool = false;
+
+	var bg2:BGSprite;
+	var hands:FlxSprite;
+
+	// Fade Variables
+	var blackBG:FlxSprite;
+	var blackFG:FlxSprite;
 
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
@@ -379,6 +387,25 @@ class PlayState extends MusicBeatState
 					stageCurtains.updateHitbox();
 					add(stageCurtains);
 				}
+
+				case 'hell': //Week 1
+				var bg:BGSprite = new BGSprite('SomewhereBG_N', -600, -150, 0.9, 0.9);
+				add(bg);
+
+				bg2 = new BGSprite('SomewhereBG_C', -600, -150, 0.9, 0.9);
+				bg2.alpha = 0;
+				add(bg2);
+
+				hands = new FlxSprite(0, 0);
+				hands.screenCenter();
+				hands.x -= 800;
+				hands.y -= 300;
+				hands.frames = Paths.getSparrowAtlas('Handsies');
+				hands.animation.addByPrefix('attack','Handies instance', 24, false);
+				hands.animation.play('attack');
+				hands.scrollFactor.set(0.95, 0.95);
+				add(hands);
+
 
 			case 'spooky': //Week 2
 				if(!ClientPrefs.lowQuality) {
@@ -627,6 +654,14 @@ class PlayState extends MusicBeatState
 				}
 		}
 
+		// Black BG
+		blackBG = new FlxSprite().makeGraphic(Std.int(FlxG.width * 2), Std.int(FlxG.height * 2), FlxColor.BLACK);
+		blackBG.x -= 200;
+		blackBG.y -= 200;
+		add(blackBG);
+		blackBG.alpha = 0;
+		blackBG.scrollFactor.set();
+
 		if(isPixelStage) {
 			introSoundsSuffix = '-pixel';
 		}
@@ -643,6 +678,8 @@ class PlayState extends MusicBeatState
 		if(curStage == 'spooky') {
 			add(halloweenWhite);
 		}
+
+		
 
 		#if LUA_ALLOWED
 		luaDebugGroup = new FlxTypedGroup<DebugLuaText>();
@@ -735,6 +772,14 @@ class PlayState extends MusicBeatState
 			gf.visible = false;
 		}
 
+// Black Foreground
+blackFG = new FlxSprite().makeGraphic(Std.int(FlxG.width * 2), Std.int(FlxG.height * 2), FlxColor.BLACK);
+blackFG.x -= 200;
+blackFG.y -= 200;
+add(blackFG);
+blackFG.alpha = 0;
+blackFG.scrollFactor.set();
+
 		switch(curStage)
 		{
 			case 'limo':
@@ -744,7 +789,15 @@ class PlayState extends MusicBeatState
 			case 'schoolEvil':
 				var evilTrail = new FlxTrail(dad, null, 4, 24, 0.3, 0.069); //nice
 				insert(members.indexOf(dadGroup) - 1, evilTrail);
+
+			case 'hell':
+				gf.alpha = 0;
+				dad.alpha = 0;
+				blackBG.alpha = 1;
+				blackFG.alpha = 1;
 		}
+
+		
 
 		var file:String = Paths.json(songName + '/dialogue'); //Checks for json/Psych Engine dialogue
 		if (OpenFlAssets.exists(file)) {
@@ -2746,6 +2799,54 @@ class PlayState extends MusicBeatState
 			
 			case 'BG Freaks Expression':
 				if(bgGirls != null) bgGirls.swapDanceType();
+
+			case 'Toggle Hell':
+			
+				if (curSong == 'Last Straw')
+					{
+						hell = !hell;
+						if (!hell)
+							{
+								//bg2.alpha = 0;
+								FlxTween.tween(bg2, {alpha: 0}, 0.5, {ease: FlxEase.elasticInOut});
+							} else
+							{
+								FlxTween.tween(bg2, {alpha: 1}, 0.5, {ease: FlxEase.elasticInOut});
+							}
+					}
+
+			case 'spooky':
+				//doesn't do anything but make dad visible
+				dad.alpha = 1;
+
+			case "Handsies":
+				if (curSong == 'Last Straw')
+					{
+						hands.animation.play('attack', true);
+					}
+					case 'Black BG Toggle':
+						var toggle:String = value1;
+						var time:Float = Std.parseFloat(value2);
+						if (toggle == "on")
+							{
+								FlxTween.tween(blackBG, {alpha : 1}, time, {type: FlxTweenType.ONESHOT, ease: FlxEase.quadInOut});
+							} else
+						if (toggle == "off")
+							{
+								FlxTween.tween(blackBG, {alpha : 0}, time, {type: FlxTweenType.ONESHOT, ease: FlxEase.quadInOut});
+							}
+		
+					case 'Black FG Toggle':
+						var toggle:String = value1;
+						var time:Float = Std.parseFloat(value2);
+						if (toggle == "on")
+							{
+								FlxTween.tween(blackFG, {alpha : 1}, time, {type: FlxTweenType.ONESHOT, ease: FlxEase.quadInOut});
+							} else
+						if (toggle == "off")
+							{
+								FlxTween.tween(blackFG, {alpha : 0}, time, {type: FlxTweenType.ONESHOT, ease: FlxEase.quadInOut});
+							}		
 		}
 		callOnLuas('onEvent', [eventName, value1, value2]);
 	}

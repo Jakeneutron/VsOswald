@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pipecleaner_v3.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PS_Down instance 10000" x="0" y="0" width="473" height="670" frameX="-12" frameY="0" frameWidth="485" frameHeight="670"/>
+	<SubTexture name="PS_Down instance 10001" x="0" y="0" width="473" height="670" frameX="-12" frameY="0" frameWidth="485" frameHeight="670"/>
+	<SubTexture name="PS_Down instance 10002" x="523" y="0" width="455" height="477" frameX="0" frameY="-193" frameWidth="485" frameHeight="670"/>
+	<SubTexture name="PS_Down instance 10003" x="523" y="0" width="455" height="477" frameX="0" frameY="-193" frameWidth="485" frameHeight="670"/>
+	<SubTexture name="PS_Down instance 10004" x="1028" y="0" width="423" height="503" frameX="-41" frameY="-167" frameWidth="485" frameHeight="670"/>
+	<SubTexture name="PS_Down instance 10005" x="1028" y="0" width="423" height="503" frameX="-41" frameY="-167" frameWidth="485" frameHeight="670"/>
+	<SubTexture name="PS_Down_Alt instance 10000" x="1501" y="0" width="477" height="674" frameX="-12" frameY="0" frameWidth="489" frameHeight="674"/>
+	<SubTexture name="PS_Down_Alt instance 10001" x="1501" y="0" width="477" height="674" frameX="-12" frameY="0" frameWidth="489" frameHeight="674"/>
+	<SubTexture name="PS_Down_Alt instance 10002" x="2028" y="0" width="459" height="481" frameX="0" frameY="-193" frameWidth="489" frameHeight="674"/>
+	<SubTexture name="PS_Down_Alt instance 10003" x="2028" y="0" width="459" height="481" frameX="0" frameY="-193" frameWidth="489" frameHeight="674"/>
+	<SubTexture name="PS_Down_Alt instance 10004" x="2537" y="0" width="427" height="507" frameX="-41" frameY="-167" frameWidth="489" frameHeight="674"/>
+	<SubTexture name="PS_Down_Alt instance 10005" x="2537" y="0" width="427" height="507" frameX="-41" frameY="-167" frameWidth="489" frameHeight="674"/>
+	<SubTexture name="PS_Left instance 10000" x="3014" y="0" width="480" height="674" frameX="0" frameY="-32" frameWidth="482" frameHeight="706"/>
+	<SubTexture name="PS_Left instance 10001" x="3014" y="0" width="480" height="674" frameX="0" frameY="-32" frameWidth="482" frameHeight="706"/>
+	<SubTexture name="PS_Left instance 10002" x="3544" y="0" width="459" height="684" frameX="-23" frameY="-22" frameWidth="482" frameHeight="706"/>
+	<SubTexture name="PS_Left instance 10003" x="3544" y="0" width="459" height="684" frameX="-23" frameY="-22" frameWidth="482" frameHeight="706"/>
+	<SubTexture name="PS_Left instance 10004" x="4053" y="0" width="464" height="706" frameX="-18" frameY="0" frameWidth="482" frameHeight="706"/>
+	<SubTexture name="PS_Left instance 10005" x="4053" y="0" width="464" height="706" frameX="-18" frameY="0" frameWidth="482" frameHeight="706"/>
+	<SubTexture name="PS_Left_Alt instance 10000" x="4567" y="0" width="484" height="678" frameX="-28" frameY="0" frameWidth="513" frameHeight="678"/>
+	<SubTexture name="PS_Left_Alt instance 10001" x="4567" y="0" width="484" height="678" frameX="-28" frameY="0" frameWidth="513" frameHeight="678"/>
+	<SubTexture name="PS_Left_Alt instance 10002" x="5101" y="0" width="507" height="651" frameX="-6" frameY="-27" frameWidth="513" frameHeight="678"/>
+	<SubTexture name="PS_Left_Alt instance 10003" x="5101" y="0" width="507" height="651" frameX="-6" frameY="-27" frameWidth="513" frameHeight="678"/>
+	<SubTexture name="PS_Left_Alt instance 10004" x="5658" y="0" width="513" height="673" frameX="0" frameY="-5" frameWidth="513" frameHeight="678"/>
+	<SubTexture name="PS_Left_Alt instance 10005" x="5658" y="0" width="513" height="673" frameX="0" frameY="-5" frameWidth="513" frameHeight="678"/>
+	<SubTexture name="PS_Right instance 10000" x="6221" y="0" width="699" height="540"/>
+	<SubTexture name="PS_Right instance 10001" x="6221" y="0" width="699" height="540"/>
+	<SubTexture name="PS_Right instance 10002" x="6970" y="0" width="627" height="359" frameX="-17" frameY="-181" frameWidth="699" frameHeight="540"/>
+	<SubTexture name="PS_Right instance 10003" x="6970" y="0" width="627" height="359" frameX="-17" frameY="-181" frameWidth="699" frameHeight="540"/>
+	<SubTexture name="PS_Right instance 10004" x="0" y="756" width="599" height="426" frameX="-16" frameY="-114" frameWidth="699" frameHeight="540"/>
+	<SubTexture name="PS_Right instance 10005" x="0" y="756" width="599" height="426" frameX="-16" frameY="-114" frameWidth="699" frameHeight="540"/>
+	<SubTexture name="PS_Right_Alt instance 10000" x="649" y="756" width="702" height="544"/>
+	<SubTexture name="PS_Right_Alt instance 10001" x="649" y="756" width="702" height="544"/>
+	<SubTexture name="PS_Right_Alt instance 10002" x="1401" y="756" width="630" height="363" frameX="-17" frameY="-181" frameWidth="702" frameHeight="544"/>
+	<SubTexture name="PS_Right_Alt instance 10003" x="2081" y="756" width="630" height="363" frameX="-17" frameY="-181" frameWidth="702" frameHeight="544"/>
+	<SubTexture name="PS_Right_Alt instance 10004" x="2761" y="756" width="603" height="431" frameX="-16" frameY="-113" frameWidth="702" frameHeight="544"/>
+	<SubTexture name="PS_Right_Alt instance 10005" x="2761" y="756" width="603" height="431" frameX="-16" frameY="-113" frameWidth="702" frameHeight="544"/>
+	<SubTexture name="PS_Scream instance 10000" x="3414" y="756" width="494" height="607" frameX="-27" frameY="-116" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10001" x="3414" y="756" width="494" height="607" frameX="-27" frameY="-116" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10002" x="3958" y="756" width="368" height="722" frameX="-33" frameY="0" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10003" x="4376" y="756" width="368" height="639" frameX="-36" frameY="-85" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10004" x="4794" y="756" width="387" height="555" frameX="-21" frameY="-168" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10005" x="5231" y="756" width="386" height="564" frameX="-20" frameY="-159" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10006" x="5667" y="756" width="411" height="580" frameX="-3" frameY="-143" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10007" x="6128" y="756" width="405" height="601" frameX="-8" frameY="-122" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10008" x="6583" y="756" width="408" height="587" frameX="-8" frameY="-136" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10009" x="7041" y="756" width="409" height="572" frameX="-8" frameY="-151" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10010" x="7500" y="756" width="410" height="570" frameX="-7" frameY="-153" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10011" x="0" y="1528" width="415" height="571" frameX="-3" frameY="-152" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10012" x="465" y="1528" width="416" height="573" frameX="-2" frameY="-149" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10013" x="931" y="1528" width="415" height="574" frameX="-2" frameY="-149" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10014" x="1396" y="1528" width="418" height="570" frameX="-1" frameY="-153" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10015" x="1864" y="1528" width="415" height="571" frameX="-3" frameY="-152" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10016" x="2329" y="1528" width="418" height="568" frameX="-1" frameY="-155" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10017" x="2797" y="1528" width="416" height="571" frameX="-2" frameY="-152" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10018" x="3263" y="1528" width="420" height="568" frameX="0" frameY="-155" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10019" x="3733" y="1528" width="418" height="570" frameX="-1" frameY="-153" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10020" x="4201" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10021" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10022" x="5141" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10023" x="5141" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10024" x="5611" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10025" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10026" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10027" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10028" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10029" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10030" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10031" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10032" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10033" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10034" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10035" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10036" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10037" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10038" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10039" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10040" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10041" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10042" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10043" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10044" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10045" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10046" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10047" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10048" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10049" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10050" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10051" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10052" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10053" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10054" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10055" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10056" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10057" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10058" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10059" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10060" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10061" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10062" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10063" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10064" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10065" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10066" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10067" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10068" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10069" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10070" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10071" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Scream instance 10072" x="4671" y="1528" width="420" height="566" frameX="0" frameY="-157" frameWidth="521" frameHeight="724"/>
+	<SubTexture name="PS_Up instance 10000" x="6081" y="1528" width="258" height="754" frameX="-42" frameY="-56" frameWidth="389" frameHeight="810"/>
+	<SubTexture name="PS_Up instance 10001" x="6081" y="1528" width="258" height="754" frameX="-42" frameY="-56" frameWidth="389" frameHeight="810"/>
+	<SubTexture name="PS_Up instance 10002" x="6389" y="1528" width="362" height="810" frameX="-12" frameY="0" frameWidth="389" frameHeight="810"/>
+	<SubTexture name="PS_Up instance 10003" x="6389" y="1528" width="362" height="810" frameX="-12" frameY="0" frameWidth="389" frameHeight="810"/>
+	<SubTexture name="PS_Up instance 10004" x="6801" y="1528" width="389" height="788" frameX="0" frameY="-22" frameWidth="389" frameHeight="810"/>
+	<SubTexture name="PS_Up instance 10005" x="6801" y="1528" width="389" height="788" frameX="0" frameY="-22" frameWidth="389" frameHeight="810"/>
+	<SubTexture name="PS_Up_Alt instance 10000" x="7240" y="1528" width="294" height="712" frameX="-52" frameY="-96" frameWidth="429" frameHeight="808"/>
+	<SubTexture name="PS_Up_Alt instance 10001" x="7240" y="1528" width="294" height="712" frameX="-52" frameY="-96" frameWidth="429" frameHeight="808"/>
+	<SubTexture name="PS_Up_Alt instance 10002" x="7584" y="1528" width="401" height="808" frameX="-12" frameY="0" frameWidth="429" frameHeight="808"/>
+	<SubTexture name="PS_Up_Alt instance 10003" x="7584" y="1528" width="401" height="808" frameX="-12" frameY="0" frameWidth="429" frameHeight="808"/>
+	<SubTexture name="PS_Up_Alt instance 10004" x="0" y="2388" width="429" height="769" frameX="0" frameY="-39" frameWidth="429" frameHeight="808"/>
+	<SubTexture name="PS_Up_Alt instance 10005" x="0" y="2388" width="429" height="769" frameX="0" frameY="-39" frameWidth="429" frameHeight="808"/>
+	<SubTexture name="PS_danceLeft instance 10000" x="479" y="2388" width="362" height="682" frameX="0" frameY="-18" frameWidth="362" frameHeight="700"/>
+	<SubTexture name="PS_danceLeft instance 10001" x="479" y="2388" width="362" height="682" frameX="0" frameY="-18" frameWidth="362" frameHeight="700"/>
+	<SubTexture name="PS_danceLeft instance 10002" x="891" y="2388" width="346" height="700" frameX="-16" frameY="0" frameWidth="362" frameHeight="700"/>
+	<SubTexture name="PS_danceLeft instance 10003" x="891" y="2388" width="346" height="700" frameX="-16" frameY="0" frameWidth="362" frameHeight="700"/>
+	<SubTexture name="PS_danceLeft instance 10004" x="1287" y="2388" width="343" height="697" frameX="-19" frameY="-3" frameWidth="362" frameHeight="700"/>
+	<SubTexture name="PS_danceLeft instance 10005" x="1287" y="2388" width="343" height="697" frameX="-19" frameY="-3" frameWidth="362" frameHeight="700"/>
+	<SubTexture name="PS_danceLeft instance 10006" x="1680" y="2388" width="350" height="691" frameX="-12" frameY="-9" frameWidth="362" frameHeight="700"/>
+	<SubTexture name="PS_danceLeft instance 10007" x="1680" y="2388" width="350" height="691" frameX="-12" frameY="-9" frameWidth="362" frameHeight="700"/>
+	<SubTexture name="PS_danceLeft instance 10008" x="2080" y="2388" width="348" height="693" frameX="-14" frameY="-7" frameWidth="362" frameHeight="700"/>
+	<SubTexture name="PS_danceLeft_Alt instance 10000" x="2478" y="2388" width="366" height="686" frameX="0" frameY="-22" frameWidth="366" frameHeight="708"/>
+	<SubTexture name="PS_danceLeft_Alt instance 10001" x="2478" y="2388" width="366" height="686" frameX="0" frameY="-22" frameWidth="366" frameHeight="708"/>
+	<SubTexture name="PS_danceLeft_Alt instance 10002" x="2894" y="2388" width="350" height="703" frameX="-16" frameY="-4" frameWidth="366" frameHeight="708"/>
+	<SubTexture name="PS_danceLeft_Alt instance 10003" x="3294" y="2388" width="350" height="703" frameX="-16" frameY="-4" frameWidth="366" frameHeight="708"/>
+	<SubTexture name="PS_danceLeft_Alt instance 10004" x="3694" y="2388" width="341" height="707" frameX="-24" frameY="0" frameWidth="366" frameHeight="708"/>
+	<SubTexture name="PS_danceLeft_Alt instance 10005" x="4085" y="2388" width="343" height="700" frameX="-23" frameY="-7" frameWidth="366" frameHeight="708"/>
+	<SubTexture name="PS_danceLeft_Alt instance 10006" x="4478" y="2388" width="354" height="695" frameX="-12" frameY="-13" frameWidth="366" frameHeight="708"/>
+	<SubTexture name="PS_danceLeft_Alt instance 10007" x="4478" y="2388" width="354" height="695" frameX="-12" frameY="-13" frameWidth="366" frameHeight="708"/>
+	<SubTexture name="PS_danceLeft_Alt instance 10008" x="4882" y="2388" width="352" height="696" frameX="-14" frameY="-11" frameWidth="366" frameHeight="708"/>
+	<SubTexture name="PS_danceRight instance 10000" x="5284" y="2388" width="349" height="692" frameX="-5" frameY="0" frameWidth="354" frameHeight="692"/>
+	<SubTexture name="PS_danceRight instance 10001" x="5284" y="2388" width="349" height="692" frameX="-5" frameY="0" frameWidth="354" frameHeight="692"/>
+	<SubTexture name="PS_danceRight instance 10002" x="5683" y="2388" width="347" height="684" frameX="-7" frameY="-8" frameWidth="354" frameHeight="692"/>
+	<SubTexture name="PS_danceRight instance 10003" x="5683" y="2388" width="347" height="684" frameX="-7" frameY="-8" frameWidth="354" frameHeight="692"/>
+	<SubTexture name="PS_danceRight instance 10004" x="6080" y="2388" width="354" height="680" frameX="0" frameY="-12" frameWidth="354" frameHeight="692"/>
+	<SubTexture name="PS_danceRight instance 10005" x="6080" y="2388" width="354" height="680" frameX="0" frameY="-12" frameWidth="354" frameHeight="692"/>
+	<SubTexture name="PS_danceRight instance 10006" x="6484" y="2388" width="351" height="686" frameX="-3" frameY="-6" frameWidth="354" frameHeight="692"/>
+	<SubTexture name="PS_danceRight instance 10007" x="6484" y="2388" width="351" height="686" frameX="-3" frameY="-6" frameWidth="354" frameHeight="692"/>
+	<SubTexture name="PS_danceRight instance 10008" x="6484" y="2388" width="351" height="686" frameX="-3" frameY="-6" frameWidth="354" frameHeight="692"/>
+	<SubTexture name="PS_danceRight_Alt instance 10000" x="6885" y="2388" width="353" height="697" frameX="-17" frameY="0" frameWidth="403" frameHeight="697"/>
+	<SubTexture name="PS_danceRight_Alt instance 10001" x="7288" y="2388" width="353" height="697" frameX="-17" frameY="0" frameWidth="403" frameHeight="697"/>
+	<SubTexture name="PS_danceRight_Alt instance 10002" x="7691" y="2388" width="369" height="685" frameX="0" frameY="-12" frameWidth="403" frameHeight="697"/>
+	<SubTexture name="PS_danceRight_Alt instance 10003" x="0" y="3207" width="369" height="688" frameX="0" frameY="-9" frameWidth="403" frameHeight="697"/>
+	<SubTexture name="PS_danceRight_Alt instance 10004" x="419" y="3207" width="358" height="684" frameX="-12" frameY="-13" frameWidth="403" frameHeight="697"/>
+	<SubTexture name="PS_danceRight_Alt instance 10005" x="827" y="3207" width="365" height="439" frameX="-38" frameY="-258" frameWidth="403" frameHeight="697"/>
+	<SubTexture name="PS_danceRight_Alt instance 10006" x="1242" y="3207" width="355" height="690" frameX="-15" frameY="-7" frameWidth="403" frameHeight="697"/>
+	<SubTexture name="PS_danceRight_Alt instance 10007" x="1242" y="3207" width="355" height="690" frameX="-15" frameY="-7" frameWidth="403" frameHeight="697"/>
+	<SubTexture name="PS_danceRight_Alt instance 10008" x="1242" y="3207" width="355" height="690" frameX="-15" frameY="-7" frameWidth="403" frameHeight="697"/>
+	<SubTexture name="PS_pipecleaner instance 10000" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10001" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10002" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10003" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10004" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10005" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10006" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10007" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10008" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10009" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10010" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10011" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10012" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10013" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10014" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10015" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10016" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10017" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10018" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10019" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10020" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10021" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10022" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10023" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10024" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10025" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10026" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10027" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10028" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10029" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10030" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10031" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10032" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10033" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10034" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10035" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10036" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10037" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10038" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10039" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10040" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10041" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10042" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10043" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10044" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10045" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10046" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10047" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10048" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10049" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10050" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10051" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10052" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10053" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10054" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10055" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10056" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10057" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10058" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10059" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10060" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10061" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10062" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10063" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10064" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10065" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10066" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10067" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10068" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10069" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10070" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10071" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10072" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10073" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10074" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10075" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10076" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10077" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10078" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10079" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10080" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10081" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10082" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10083" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10084" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10085" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10086" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10087" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10088" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10089" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10090" x="1647" y="3207" width="482" height="727"/>
+	<SubTexture name="PS_pipecleaner instance 10091" x="1647" y="3207" width="482" height="727"/>
+</TextureAtlas>

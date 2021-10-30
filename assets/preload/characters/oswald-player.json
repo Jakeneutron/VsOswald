@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				39,
+				-17
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Os_Left instance"
+		},
+		{
+			"offsets": [
+				-71,
+				-201
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Os_Down instance"
+		},
+		{
+			"offsets": [
+				-222,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Os_Up instance"
+		},
+		{
+			"offsets": [
+				-170,
+				34
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Os_Right instance"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				20
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "Os_danceLeft instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				20
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "Os_danceRight instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				35,
+				-4
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "Os_Left_Hurt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-60,
+				-190
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Os_Down_Hurt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-214,
+				40
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Os_Up_Hurt instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-210,
+				39
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "Os_Right_Hurt instance",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Oswald_Player",
+	"position": [
+		-70,
+		200
+	],
+	"healthicon": "oswald",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		135,
+		255
+	],
+	"camera_position": [
+		-170,
+		80
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

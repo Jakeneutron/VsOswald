@@ -1,0 +1,177 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				76,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "PS_Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "PS_Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				100
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "PS_Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-94,
+				-143
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "PS_Right instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "PS_danceLeft instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-4
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "PS_danceRight instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				100,
+				-22
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "PS_Left_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				-30
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "PS_Down_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				22,
+				96
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "PS_Up_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-95,
+				-143
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "PS_Right_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				4
+			],
+			"anim": "danceLeft-alt",
+			"fps": 24,
+			"name": "PS_danceLeft_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-4
+			],
+			"anim": "danceRight-alt",
+			"fps": 24,
+			"name": "PS_danceRight_Alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				55,
+				17
+			],
+			"anim": "scream",
+			"fps": 24,
+			"name": "PS_Scream",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				57,
+				10
+			],
+			"anim": "pipecleaner",
+			"fps": 24,
+			"name": "PS_pipecleaner",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Pipecleaner_v3",
+	"position": [
+		0,
+		30
+	],
+	"healthicon": "pipecleanergrey",
+	"flip_x": false,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-60,
+		30
+	],
+	"sing_duration": 6.1,
+	"scale": 0.9
+}

@@ -208,6 +208,7 @@ class PlayState extends MusicBeatState
 	var wiggleShit:WiggleEffect = new WiggleEffect();
 	var bgGhouls:BGSprite;
 	public var hell:Bool = false;
+	public var hudAlpha:Bool = false;
 
 	var bg2:BGSprite;
 	var hands:FlxSprite;
@@ -215,6 +216,9 @@ class PlayState extends MusicBeatState
 	// Fade Variables
 	var blackBG:FlxSprite;
 	var blackFG:FlxSprite;
+
+	//Hurt Variable
+	var wantDeath:Bool = false;
 
 	public var songScore:Int = 0;
 	public var songHits:Int = 0;
@@ -795,6 +799,8 @@ blackFG.scrollFactor.set();
 				dad.alpha = 0;
 				blackBG.alpha = 1;
 				blackFG.alpha = 1;
+				camHUD.alpha = 0;
+				hudAlpha = true;
 		}
 
 		
@@ -2306,6 +2312,11 @@ blackFG.scrollFactor.set();
 						} else {
 							dad.playAnim(animToPlay + altAnim, true);
 							dad.holdTimer = 0;
+							if (wantDeath)
+								{
+									if (health >= 0.03)
+									{health -= 0.025;}
+								}
 						}
 					}
 
@@ -2814,6 +2825,25 @@ blackFG.scrollFactor.set();
 								FlxTween.tween(bg2, {alpha: 1}, 0.5, {ease: FlxEase.elasticInOut});
 							}
 					}
+					case 'Toggle HUD alpha':
+
+						var time:Float = Std.parseFloat(value1);
+
+
+								hudAlpha = !hudAlpha;
+
+								
+								if (hudAlpha)
+									{
+										//bg2.alpha = 0;
+										FlxTween.tween(camHUD, {alpha: 0}, time, {ease: FlxEase.elasticInOut});
+									} else
+									{
+										FlxTween.tween(camHUD, {alpha: 1}, time, {ease: FlxEase.elasticInOut});
+									}
+			case 'Toggle Health Drain':
+
+			wantDeath = !wantDeath;
 
 			case 'spooky':
 				//doesn't do anything but make dad visible

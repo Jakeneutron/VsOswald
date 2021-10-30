@@ -3,54 +3,17 @@
 		"player1": "oswald-player2",
 		"notes": [
 			{
-				"sectionNotes": [
-					[
-						0,
-						-1,
-						"Play Animation",
-						"uh hello",
-						"bf"
-					],
-					[
-						180.722891566265,
-						-1,
-						"Black FG Toggle",
-						"off",
-						"0.4"
-					]
-				],
+				"sectionNotes": [],
 				"lengthInSteps": 16,
 				"mustHitSection": true,
 				"bpm": null
 			},
 			{
-				"sectionNotes": [
-					[
-						4156.6265060241,
-						-1,
-						"spooky",
-						"",
-						""
-					],
-					[
-						4337.34939759036,
-						-1,
-						"Black BG Toggle",
-						"off",
-						"0.01"
-					],
-					[
-						4382.53012048193,
-						-1,
-						"Camera Follow Pos",
-						"300",
-						"400"
-					]
-				],
+				"sectionNotes": [],
 				"lengthInSteps": 16,
-				"changeBPM": false,
 				"bpm": 1,
-				"mustHitSection": true
+				"mustHitSection": true,
+				"changeBPM": false
 			},
 			{
 				"sectionNotes": [
@@ -100,13 +63,6 @@
 						10843.3734939759,
 						3,
 						0
-					],
-					[
-						8674.69879518072,
-						-1,
-						"Camera Follow Pos",
-						"",
-						""
 					]
 				],
 				"lengthInSteps": 16,
@@ -137,9 +93,9 @@
 					]
 				],
 				"lengthInSteps": 16,
-				"bpm": 130,
 				"changeBPM": false,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"bpm": 130
 			},
 			{
 				"sectionNotes": [
@@ -165,9 +121,9 @@
 					]
 				],
 				"lengthInSteps": 16,
-				"changeBPM": false,
 				"bpm": 130,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"changeBPM": false
 			},
 			{
 				"sectionNotes": [
@@ -213,9 +169,9 @@
 					]
 				],
 				"lengthInSteps": 16,
-				"bpm": 130,
 				"changeBPM": false,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"bpm": 130
 			},
 			{
 				"sectionNotes": [
@@ -677,9 +633,9 @@
 					]
 				],
 				"lengthInSteps": 16,
-				"bpm": 160,
 				"changeBPM": false,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"bpm": 160
 			},
 			{
 				"sectionNotes": [
@@ -760,9 +716,9 @@
 					]
 				],
 				"lengthInSteps": 16,
-				"bpm": 83,
 				"changeBPM": false,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"bpm": 83
 			},
 			{
 				"sectionNotes": [
@@ -926,19 +882,12 @@
 						58639.0176088971,
 						1,
 						903.614457831325
-					],
-					[
-						57831.3253012048,
-						-1,
-						"",
-						"",
-						""
 					]
 				],
 				"lengthInSteps": 16,
-				"bpm": 130,
 				"changeBPM": true,
-				"mustHitSection": false
+				"mustHitSection": false,
+				"bpm": 130
 			},
 			{
 				"sectionNotes": [
@@ -1171,13 +1120,6 @@
 						70639.0176088971,
 						3,
 						0
-					],
-					[
-						69715.9406858202,
-						-1,
-						"Add Camera Zoom",
-						"0.4",
-						""
 					]
 				],
 				"lengthInSteps": 16,
@@ -2644,20 +2586,6 @@
 						117939.498378128,
 						0,
 						0
-					],
-					[
-						117376.998378128,
-						-1,
-						"Screen Shake",
-						"0.3, 0.05",
-						""
-					],
-					[
-						117939.498378128,
-						-1,
-						"Screen Shake",
-						"",
-						"0.3, 0.05"
 					]
 				],
 				"typeOfSection": 0,
@@ -2680,20 +2608,6 @@
 						119814.498378128,
 						3,
 						0
-					],
-					[
-						119439.498378128,
-						-1,
-						"Screen Shake",
-						"0.3, 0.05",
-						""
-					],
-					[
-						119814.498378128,
-						-1,
-						"Screen Shake",
-						"",
-						"0.3, 0.05"
 					]
 				],
 				"altAnim": false,
@@ -2723,20 +2637,6 @@
 						122251.998378128,
 						2,
 						361.44578313253
-					],
-					[
-						121689.498378128,
-						-1,
-						"Screen Shake",
-						"0.3, 0.05",
-						""
-					],
-					[
-						122251.998378128,
-						-1,
-						"Screen Shake",
-						"",
-						"0.6, 0.05"
 					]
 				],
 				"altAnim": false,
@@ -2755,20 +2655,6 @@
 						123939.498378128,
 						2,
 						0
-					],
-					[
-						123470.748378128,
-						-1,
-						"Screen Shake",
-						"0.3, 0.05",
-						""
-					],
-					[
-						123939.498378128,
-						-1,
-						"Screen Shake",
-						"",
-						"0.3, 0.05"
 					]
 				],
 				"typeOfSection": 0,
@@ -2809,62 +2695,6 @@
 						125439.498378128,
 						1,
 						0
-					],
-					[
-						125626.998378128,
-						-1,
-						"Play Animation",
-						"scream",
-						"dad"
-					],
-					[
-						125533.248378128,
-						-1,
-						"Toggle Hell",
-						"",
-						""
-					],
-					[
-						125720.748378128,
-						-1,
-						"Screen Shake",
-						"0.6, 0.07",
-						""
-					],
-					[
-						124783.248378128,
-						-1,
-						"Screen Shake",
-						"",
-						"0.3, 0.05"
-					],
-					[
-						124970.748378128,
-						-1,
-						"Screen Shake",
-						"",
-						"0.3, 0.05"
-					],
-					[
-						125251.998378128,
-						-1,
-						"Screen Shake",
-						"",
-						"0.3, 0.05"
-					],
-					[
-						125439.498378128,
-						-1,
-						"Change Character",
-						"dad",
-						"pipecleanergrey"
-					],
-					[
-						125709.029628128,
-						-1,
-						"Change Character",
-						"bf",
-						"oswald-player2-fear"
 					]
 				],
 				"typeOfSection": 0,
@@ -2945,20 +2775,6 @@
 						126845.748378128,
 						0,
 						0
-					],
-					[
-						125908.248378128,
-						-1,
-						"Alt Idle Animation",
-						"dad",
-						"-alt"
-					],
-					[
-						126001.998378128,
-						-1,
-						"Add Camera Zoom",
-						"0.09",
-						""
 					]
 				],
 				"typeOfSection": 0,
@@ -3971,13 +3787,6 @@
 						0
 					],
 					[
-						148314.498378128,
-						-1,
-						"Play Animation",
-						"scream",
-						"dad"
-					],
-					[
 						147376.998378128,
 						0,
 						0
@@ -4016,29 +3825,7 @@
 				"bpm": 83
 			},
 			{
-				"sectionNotes": [
-					[
-						148408.248378128,
-						-1,
-						"Handsies",
-						"",
-						""
-					],
-					[
-						149345.748378128,
-						-1,
-						"Play Animation",
-						"wtf",
-						"bf"
-					],
-					[
-						149251.998378128,
-						-1,
-						"Camera Follow Pos",
-						"850",
-						"400"
-					]
-				],
+				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": true,
@@ -4047,15 +3834,7 @@
 				"bpm": 83
 			},
 			{
-				"sectionNotes": [
-					[
-						150095.748378128,
-						-1,
-						"Black FG Toggle",
-						"on",
-						"0.001"
-					]
-				],
+				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": true,
@@ -4073,36 +3852,7 @@
 				"bpm": 83
 			},
 			{
-				"sectionNotes": [
-					[
-						154314.498378128,
-						-1,
-						"Play Animation",
-						"pipecleaner",
-						"bf"
-					],
-					[
-						153751.998378128,
-						-1,
-						"Camera Follow Pos",
-						"600",
-						"400"
-					],
-					[
-						154220.748378128,
-						-1,
-						"Change Character",
-						"dad",
-						"pipecleanerend"
-					],
-					[
-						154244.185878128,
-						-1,
-						"Change Character",
-						"bf",
-						"oswald-playerend"
-					]
-				],
+				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": true,
@@ -4111,22 +3861,7 @@
 				"bpm": 83
 			},
 			{
-				"sectionNotes": [
-					[
-						154501.998378128,
-						-1,
-						"Black FG Toggle",
-						"off",
-						"0.01"
-					],
-					[
-						154408.248378128,
-						-1,
-						"Play Animation",
-						"pipecleaner",
-						"dad"
-					]
-				],
+				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": true,
@@ -4135,15 +3870,7 @@
 				"bpm": 83
 			},
 			{
-				"sectionNotes": [
-					[
-						156845.748378128,
-						-1,
-						"Black FG Toggle",
-						"on",
-						"0.001"
-					]
-				],
+				"sectionNotes": [],
 				"typeOfSection": 0,
 				"lengthInSteps": 16,
 				"altAnim": true,
@@ -4537,6 +4264,60 @@
 				"mustHitSection": true,
 				"changeBPM": false,
 				"bpm": 83
+			},
+			{
+				"lengthInSteps": 16,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"altAnim": false,
+				"bpm": 83,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"sectionNotes": [],
+				"typeOfSection": 0,
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"mustHitSection": true,
+				"changeBPM": false,
+				"bpm": 83
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 83,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 83,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 83,
+				"changeBPM": false,
+				"mustHitSection": true
+			},
+			{
+				"lengthInSteps": 16,
+				"altAnim": false,
+				"typeOfSection": 0,
+				"sectionNotes": [],
+				"bpm": 83,
+				"changeBPM": false,
+				"mustHitSection": true
 			},
 			{
 				"lengthInSteps": 16,

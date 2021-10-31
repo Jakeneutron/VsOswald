@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				39,
+				-87
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Os_Left instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-28,
+				-213
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Os_Down instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-222,
+				73
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Os_Up instance",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-173,
+				-5
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Os_Right instance",
+			"indices": []
+		},
+		{
+			"offsets": [
+				35,
+				-4
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Os_Left_Hurt instance"
+		},
+		{
+			"offsets": [
+				-60,
+				-190
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Os_Down_Hurt instance"
+		},
+		{
+			"offsets": [
+				-214,
+				40
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Os_Up_Hurt instance"
+		},
+		{
+			"offsets": [
+				-210,
+				39
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Os_Right_Hurt instance"
+		},
+		{
+			"offsets": [
+				58,
+				23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "Os_Death "
+		},
+		{
+			"offsets": [
+				31,
+				121
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "Os_Death_Confirm"
+		},
+		{
+			"offsets": [
+				157,
+				89
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "uh hello",
+			"indices": [],
+			"name": "Os_UhHello"
+		},
+		{
+			"offsets": [
+				215,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wtf",
+			"indices": [],
+			"name": "Os_WTF"
+		},
+		{
+			"offsets": [
+				-40,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pipecleaner",
+			"indices": [],
+			"name": "Os_Pipecleaner"
+		},
+		{
+			"loop": true,
+			"offsets": [
+				68,
+				-153
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "Os_Death_Loop",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-97,
+				-93
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Os_Idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Oswald_Playerv2_Fear",
+	"position": [
+		-70,
+		200
+	],
+	"healthicon": "oswald",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		135,
+		255
+	],
+	"camera_position": [
+		160,
+		40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

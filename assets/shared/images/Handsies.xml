@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Handsies.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Handies instance 10000" x="0" y="0" width="104" height="105" frameX="-410" frameY="-340" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10001" x="154" y="0" width="1492" height="483" frameX="-211" frameY="-240" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10002" x="1696" y="0" width="1596" height="501" frameX="-107" frameY="-222" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10003" x="3342" y="0" width="1596" height="501" frameX="-107" frameY="-222" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10004" x="4988" y="0" width="1597" height="501" frameX="-107" frameY="-222" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10005" x="0" y="551" width="1597" height="502" frameX="-107" frameY="-221" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10006" x="1647" y="551" width="1598" height="502" frameX="-107" frameY="-221" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10007" x="3295" y="551" width="1601" height="503" frameX="-106" frameY="-219" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10008" x="4946" y="551" width="1604" height="504" frameX="-105" frameY="-217" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10009" x="0" y="1105" width="1610" height="506" frameX="-103" frameY="-213" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10010" x="1660" y="1105" width="1620" height="510" frameX="-100" frameY="-206" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10011" x="3330" y="1105" width="1634" height="516" frameX="-96" frameY="-197" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10012" x="5014" y="1105" width="1652" height="524" frameX="-89" frameY="-184" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10013" x="0" y="1679" width="1675" height="535" frameX="-81" frameY="-166" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10014" x="1725" y="1679" width="1715" height="549" frameX="-71" frameY="-143" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10015" x="3490" y="1679" width="1750" height="601" frameX="-51" frameY="-84" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10016" x="5290" y="1679" width="1772" height="620" frameX="-40" frameY="-60" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10017" x="0" y="2349" width="1801" height="633" frameX="-24" frameY="-43" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10018" x="1851" y="2349" width="1816" height="649" frameX="-15" frameY="-25" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10019" x="3717" y="2349" width="1827" height="657" frameX="-9" frameY="-15" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10020" x="5594" y="2349" width="1833" height="661" frameX="-5" frameY="-9" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10021" x="0" y="3060" width="1838" height="666" frameX="-2" frameY="-4" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10022" x="1888" y="3060" width="1840" height="667" frameX="-1" frameY="-2" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10023" x="3778" y="3060" width="1840" height="668" frameX="-1" frameY="-1" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10024" x="5668" y="3060" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10025" x="0" y="3779" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10026" x="1891" y="3779" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10027" x="3782" y="3779" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10028" x="3782" y="3779" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10029" x="5673" y="3779" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10030" x="5673" y="3779" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10031" x="0" y="4498" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10032" x="0" y="4498" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10033" x="0" y="4498" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10034" x="1891" y="4498" width="1841" height="669" frameX="0" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10035" x="3782" y="4498" width="1825" height="671" frameX="-10" frameY="0" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10036" x="5657" y="4498" width="1825" height="663" frameX="-10" frameY="-8" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10037" x="0" y="5219" width="1760" height="670" frameX="-17" frameY="-8" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10038" x="1810" y="5219" width="1720" height="596" frameX="-57" frameY="-82" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10039" x="3580" y="5219" width="1701" height="616" frameX="-57" frameY="-82" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10040" x="5331" y="5219" width="1571" height="531" frameX="-187" frameY="-167" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10041" x="0" y="5939" width="1547" height="559" frameX="-187" frameY="-186" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10042" x="1597" y="5939" width="1424" height="550" frameX="-310" frameY="-195" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10043" x="3071" y="5939" width="1323" height="474" frameX="-310" frameY="-271" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10044" x="4444" y="5939" width="1323" height="474" frameX="-310" frameY="-271" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10045" x="5817" y="5939" width="1275" height="474" frameX="-310" frameY="-271" frameWidth="1841" frameHeight="745"/>
+	<SubTexture name="Handies instance 10046" x="0" y="0" width="104" height="105" frameX="14" frameY="-93" frameWidth="1841" frameHeight="745"/>
+</TextureAtlas>
